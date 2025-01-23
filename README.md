@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there! 👋 I'm Ashwin S  
 
-<!--
-**Dark-Myth/Dark-Myth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me  
+I'm a **B.Tech CSE student** passionate about technology, coding, and design. I love building intuitive user interfaces and creating meaningful datasets for AI/ML applications. My current interests span **machine learning**, **blockchain cryptography**, and **Web/App development**.  
 
-Here are some ideas to get you started:
+### 🌱 What I’m Currently Working On  
+- **🖥️ Placement Preparation**: Targeting roles at **product-based companies** and **tech giants**.  
+- **📱 App Development**: Building an app to use a phone as a Bluetooth keyboard for laptops.  
+- **✍️ Benchmark Dataset Creation**: Contributing to NLP research for the **Telugu language**.  
+- **💻 Annotation Tool**: Developing a web-based platform for efficient annotation.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 Skills & Interests  
+- **Programming**: Python, JavaScript, C, React with Vite.  
+- **Machine Learning**: Sentiment analysis, supervised/unsupervised learning, and NLP.  
+- **Databases**: MongoDB, MySQL.  
+- **UI/UX Design**: Designing clean and user-friendly interfaces.  
+- **Blockchain & Cryptography**: Exploring modular arithmetic, group theory, and their applications.  
+
+### 🌐 Connect with Me  
+- **Email**: s.ashwin.work@gmail.com  
+
+### 📌 Fun Fact  
+I enjoy creating solutions that bridge the gap between **analog and digital worlds**, such as combining **QR codes** and **digital circuits** for innovative products!  
+
+### 🔭 Looking Forward To  
+Collaborating with like-minded developers, contributing to open-source projects, and constantly pushing my boundaries.  
