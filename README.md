@@ -17,7 +17,7 @@ I'm a **B.Tech CSE student** passionate about technology, coding, and design. I 
 - **Blockchain & Cryptography**: Exploring modular arithmetic, group theory, and their applications.  
 
 ### 🌐 Connect with Me  
-- **Email**: s.ashwin.work@gmail.com  
+- **Email**: ashwinshakthi@gmail.com 
 
 ### 📌 Fun Fact  
 I enjoy creating solutions that bridge the gap between **analog and digital worlds**, such as combining **QR codes** and **digital circuits** for innovative products!  
